@@ -1,0 +1,9 @@
+ultralytics
+layoutparser
+segment-anything
+opencv-python
+numpy
+Pillow
+matplotlib
+flask
+flask-cors
